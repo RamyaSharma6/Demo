@@ -1,0 +1,79 @@
+1.Write a pseudocode for displaying the largest number of the given array {7,8,5,6}.
+
+Begin
+read a[],i,max,n;
+enter the values in the array
+accept the size of array n
+consider a[0]=max
+for(i=1;i<n;i++)
+begin
+ if(a[i]>max)
+ begin
+  max=a[i];
+ end
+ print max +"is the largest no."
+ end
+
+
+2.Write  a  pseudocode  to  calculate  the  average  of  the elements in the given array of size 10.
+
+begin
+read a[10],sum=0,i;
+float avg=0;
+accept the values of array from user
+for(i=0;i<9;i++)
+begin
+sum=sum+a[i];
+end
+avg=sum/10;
+end
+
+3.Write a pseudocode to display the sum of two matrix having size 3.
+
+begin
+read a[5][5],b[5][5],i,j,r1,r2,c1,c2,s;um
+accept the no. of rows of matrix a:r1
+accept the no.of columns of matrix a:c1
+accept the no.of rows of matrix b:r2
+accept the no.of columns of matrix b:c2
+accept the values of matrix a.........
+for(i=0;i<r1;i++)
+begin
+ for(j=0;j<c1;j++)
+ begin
+  print the values of the matrix a[i][j]
+ end
+end
+accept the values of matrix b.........
+for(i=0;i<r2;i++)
+begin
+ for(j=0;j<c2;j++)
+ begin
+  print the values of the matrix b[i][j]
+ end
+end
+ addition of 2 matrices.......
+for(i=0;i<r1;i++)
+begin
+ for(j=0;j<c1;j++)
+  begin
+   sum[i][j]=a[i][j]+b[i][j];
+   print sum[i][j];
+  end
+printf("\n")
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

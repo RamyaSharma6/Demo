@@ -1,0 +1,6 @@
+1)Write a program to print a series with an alteration of addition and subtraction.
+2)Write a program to change the upper-case character to lower case character and vice-versa.
+3)Write a program to print the following pattern
+4)Write a program to print the mirror alphabets.
+
+

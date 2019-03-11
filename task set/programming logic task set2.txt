@@ -1,0 +1,9 @@
+1)replace module in any programming language without using predefined replace module
+2)find out quotient and remainder without using division sign
+3)create substring function without using predefined function of the same
+4)create a recursive function for fibonacci series
+5)create a program to sum no.s belonging to a given range
+6)take string and character as input from user and find the longest sequence of that character in a string
+    eg: hello world
+         l
+         hello is ans since l is mostly repeated in given string
